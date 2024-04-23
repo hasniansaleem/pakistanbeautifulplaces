@@ -5,7 +5,7 @@
   "homepage": "https://hasniansaleem.github.io/Tourist-Guide-App",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^5.0.0",
     "marquee-react-dwyer": "^5.7.9",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
